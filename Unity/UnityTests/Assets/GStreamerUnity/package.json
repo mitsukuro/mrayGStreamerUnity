@@ -1,0 +1,10 @@
+{
+    "name": "com.mrayy.mray_gstreamer_unity",
+    "displayName": "GStreamerUnity",
+    "version": "1.16.2",
+    "unity": "2020.3",
+    "description": "GStreamer Integration with Unity using a Native plugin.",
+    "keywords": ["webrtc", "gstreamer"],
+    "category": "video",
+    "dependencies": { }
+}
